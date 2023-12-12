@@ -11,3 +11,6 @@ Add the "Data" from GTZAN data set under the main folder
 >         - **images_original**
 >         - features_3_sec.csv
 >         - features_3_sec.csv
+
+
+Ignored jazz.00054 as it was corrupt
